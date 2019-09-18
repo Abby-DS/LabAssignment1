@@ -1,0 +1,6 @@
+
+House ID: 0	House Price: 4500000.0	House Location: Spanish Town 	House Advertiser: Earl Thompson	Image Code: 0	Image Name: Grilled House 
+
+House ID: 1	House Price: 9800000.0	House Location: Cumberland 	House Advertiser: Yvette	Image Code: 1	Image Name: House 
+
+House ID: 2	House Price: 9850000.0	House Location: Green Acres	House Advertiser: Raymond Green	Image Code: 2	Image Name: House
